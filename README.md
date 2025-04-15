@@ -40,7 +40,7 @@ Start the development server: Fire it up with:
 
 npm run dev
 Check it out: Open your browser and head to http://localhost:3000.
-No extra setup needed since we’re using a mock API—pretty straightforward, right?
+No extra setup needed since we’re using a mock API—pretty straightforward.
 
 
 How to Use
@@ -48,9 +48,9 @@ Here’s the quick rundown on using the dashboard:
 
 View blog posts: Just hit the homepage to see the full list.
 Check out a post: Click the "Read More" button to get the whole story.
-Add a new post: Hit the "Add Post" button, fill out the form, and you’re good to go!
+Add a new post: Hit the "Add Post" button, fill out the form, and you’re  to go
 Live Demo and Repository
-Want to see it in action or poke around the code?
+
 
 Live Demo: [https://benevolent-banoffee-f74e45.netlify.app/posts/]
 GitHub Repository: [https://github.com/Yousaf03448307585/blog_demo_site.git]
